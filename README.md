@@ -1,8 +1,10 @@
-Description of the website:
-This a website of an association named SanadAlhayt. In this website we have a main page , To engage with us, About us page and also contact us page  .
+Description of the website: <br>
+This a website of an association named SanadAlhayt. In this website we have a main page , To engage with us, About us page and also contact us page  .<br>
+Link : https://oussamariadi.github.io/Sanadalhayat/<br>
 
 <hr>
 -> Main Page:
+
 ![1](https://github.com/user-attachments/assets/6618731f-32d2-4208-a62b-ccbbb6231435)
 
 <hr>
@@ -12,8 +14,10 @@ This a website of an association named SanadAlhayt. In this website we have a ma
 
 <hr>
 ->  Last activity’s :
+
 ![3](https://github.com/user-attachments/assets/2b4ea81e-bdd0-47fb-829c-09e3b1ced701)
 
 <hr>
 -> Our Goal's page :
+
 ![2](https://github.com/user-attachments/assets/830e2591-61ba-4067-823e-26c095a51f24)
